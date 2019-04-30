@@ -6,7 +6,7 @@
  * Time: 18:06
  */
 
-require_once('./MGQrCodeReader/MGQrCodeReader.php');
+require_once('./QrCodeReader/MGQrCodeReader.php');
 
 // test
 $img_path = './image/';

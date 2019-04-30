@@ -1,6 +1,6 @@
 <?php
 
-namespace MGQrCodeReader;
+namespace QrCodeReader;
 
 use \Exception;
 

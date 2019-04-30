@@ -1,0 +1,16 @@
+{
+  "name": "utest888/qr-code-reader",
+  "description": "qr-code-reader",
+  "authors": [
+    {
+      "name": "peter song",
+      "email": "utest888@qq.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "QrCodeReader\\": "src/QrCodeReader"
+    }
+  }
+}
